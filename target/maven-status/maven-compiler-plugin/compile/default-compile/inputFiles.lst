@@ -1,0 +1,4 @@
+/home/racem/GL4/big_data/wordcount/src/main/java/tn/insat/tp1/WordCount.java
+/home/racem/GL4/big_data/wordcount/src/main/java/hadoop/mapreduce/App.java
+/home/racem/GL4/big_data/wordcount/src/main/java/tn/insat/tp1/IntSumReducer.java
+/home/racem/GL4/big_data/wordcount/src/main/java/tn/insat/tp1/TokenizerMapper.java
